@@ -1,2 +1,2 @@
 # ML-Trading-Algorithms-
-Uses Quantopian APi. 
+Uses Quantopian API, SKLearn, and pandas. 
